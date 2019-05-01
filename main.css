@@ -1,0 +1,87 @@
+hr {
+	width: 500px;
+	margin-bottom: 5px;
+	border: 5px solid #216fed;
+	border-radius: 10px;
+
+}
+
+.header h1, .header h2 {
+	text-align: center;
+	margin: 0 auto;
+	color: red;
+	font-weight: 1800;
+	outline-color: black;
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.header h1 {
+	font-size: 75px;
+	outline-color: black;
+}
+
+.header h2{
+	font-size: 50px;
+	outline-color: black;
+}
+
+.header {
+	margin: 50px auto;
+	margin-top: 50px;
+	font-family: Arial;
+	border: 5px solid red;
+	width: 600px;
+}
+
+.byline {
+	font-family: Georgia;
+	text-align: center;
+	font-size: 25px;
+	margin-bottom: 70px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.mid p {
+	font-size: 20px;
+	margin: 0 20px;
+	text-align: center;
+}
+
+.bottom h1 {
+	font-family: Georgia;
+	text-decoration: underline;
+	margin-left: 20px;
+	text-align: center;
+}
+
+.main {
+	background-color: lightblue;
+}
+
+.bottom p {
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 0 25%;
+	text-align: center;
+}
+
+.bottom {
+	margin-bottom: 50px;
+}
+
+.footer{
+	text-align: center;
+	font-size: 25px;
+	border: 5px solid red;
+	width: 800px;
+	padding: 0 10px;
+	margin: 0 auto;
+	color: red;
+	font-family: Arial;
+	font-weight: 900;
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+	margin-bottom: 50px;
+}
